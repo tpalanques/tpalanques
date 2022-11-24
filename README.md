@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tpalanques
 - 👀 I’m interested in music, tecnology, videogames and traveling
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Bash and Unit Testing
 - 💞️ I’m looking to collaborate on any cultural project I can
 - 📫 How to reach me: tpalanques@gmail.com
