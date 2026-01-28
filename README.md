@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tpalanques
 - 👀 I’m interested in music, tecnology, videogames and traveling
-- 🌱 I’m currently doing a lot of Unit Testing and I'm loving TDD
+- 🌱 I’m currently doing a lot of work using Claude 💡
 - 💞️ I’m looking to collaborate on any cultural project I can
 - 📫 How to reach me: tpalanques@gmail.com
